@@ -40,9 +40,9 @@ const diplomas = [
                 }
             },
             {
-                name: "Payment Techonologies",
+                name: "Payment Technologies",
                 code: "C372",
-                id: "c372-payment-techonologies",
+                id: "c372-payment-technnologies",
                 desc: "This module introduces students to different payment technologies and systems.",
                 lecturer: {
                     name: "Magdalene Lim",
